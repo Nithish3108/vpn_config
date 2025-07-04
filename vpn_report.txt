@@ -1,0 +1,18 @@
+VPN Privacy & Security Report
+
+
+Objective:
+To understand how VPNs protect online privacy and secure communication.
+
+Steps Followed:
+- Signed up for hide.me VPN
+- Installed and connected to a Switzerland server
+- IP changed from 182.74.154.218 to 185.195.71.214
+- Confirmed secure browsing
+- Disconnected VPN and confirmed IP returned to original
+
+Learnings:
+- VPN masks real IP and encrypts internet traffic
+- Helpful for privacy and secure browsing
+- Free VPNs may have data or speed limits
+
